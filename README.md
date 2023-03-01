@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @3Dbearnadette
-- 👀 I’m interested in ... Open source game development.
-- 🌱 I’m currently learning ... GDScript
-- 📫 How to reach me ... eileenbearnadette@gmail.com
+- 👋 Hi, I’m bearnadette
+- 👀 I’m interested in ... Open source game development and typesetting.
+- 🌱 I’m currently learning ... GDScript and LaTeX
+- 📫 How to reach me ... eileenbusinessbear@gmail.com
 
 <!---
 3Dbearnadette/3Dbearnadette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
